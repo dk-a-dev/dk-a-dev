@@ -22,6 +22,10 @@
 ### Github Stats
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dk-a-dev&show_icons=true&locale=en&theme=dracula&borderRadius=25px&count_private=true" alt="dk-a-dev's github stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-a-dev&theme=dracula&borderRadius=25px" alt="dk-a-dev steak" /></p>
