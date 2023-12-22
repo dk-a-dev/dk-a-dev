@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@dev_keshwani10-purple?style=flat&logo=instagram&logoColor=orange&link=https://instagram.com/dev_keshwani10/)](https://instagram.com/dev_keshwani10)
 [![Gmail Badge](https://img.shields.io/badge/-dev.keshwani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.keshwani345@gmail.com)](mailto:dev.keshwani345@gmail.com)
 
-## Languages and Tools
+### Languages and Tools
 <!-- // Mrkdown format -->
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
@@ -19,8 +19,10 @@
 
 
 
-## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk-a-dev&show_icons=true&locale=en&theme=dracula&borderRadius=25px&layout=compact" alt="dk-a-dev's top languages" /></p>
+### Github Stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dk-a-dev&show_icons=true&locale=en&theme=dracula&borderRadius=25px&count_private=true" alt="dk-a-dev's github stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-a-dev&theme=dracula&borderRadius=25px" alt="dk-a-dev steak" /></p>
 
