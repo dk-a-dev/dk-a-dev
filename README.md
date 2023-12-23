@@ -23,7 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin       2 hrs 43 mins   ███████████████▒░░░░░░░░░   61.36 %
+Markdown     1 hr 37 mins    █████████▒░░░░░░░░░░░░░░░   36.76 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
