@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other             21 hrs 43 mins  ██████████████▒░░░░░░░░░░   57.60 %
-Dart              7 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
-JavaScript        4 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Python            1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Figma Design      1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Other             22 hrs 39 mins  ████████████████▓░░░░░░░░   67.32 %
+JavaScript        5 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Python            1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Figma Design      1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Dart              1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
