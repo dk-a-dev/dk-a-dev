@@ -23,9 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        29 hrs 31 mins  ████████████████████████▒   97.96 %
-JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        33 hrs 19 mins  ████████████████████████▓   98.19 %
+JavaScript   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
