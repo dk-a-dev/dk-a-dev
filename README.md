@@ -23,7 +23,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   28 hrs 6 mins   █████████████████████████   100.00 %
+Other          26 hrs 1 min    █████████████████████████   99.83 %
+Canva Design   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
