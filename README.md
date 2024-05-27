@@ -43,8 +43,3 @@ Canva Design   2 mins          ░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dk-a-dev&show_icons=true&locale=en&theme=dracula&borderRadius=25px&count_private=true" alt="dk-a-dev's github stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-a-dev&theme=dracula&borderRadius=25px" alt="dk-a-dev steak" /></p>
-
-### Profile Views
-![VisitorCount](https://profile-counter.glitch.me/{dk-a-dev}/count.svg)
-
-- 😄 Pronouns: He/Him
