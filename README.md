@@ -29,6 +29,10 @@ I'm Dev Keshwani, a self-taught developer who loves turning ideas into realityâ€
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=Astro)
 
 
 
