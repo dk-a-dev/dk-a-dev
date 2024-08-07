@@ -7,8 +7,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdk-a-dev%2Fdk-a-dev&label=Profile%20Views&labelColor=%36454F4&countColor=%237b78ff&style=flat-square)
 
 <br />
-I'm Dev Keshwani, a self-taught developer who loves turning ideas into reality—I make UIs for apps and rock-solid backends. Let's build something awesome together! ✨
-Know More About Me [dkakdev.vercel.app](https://dkadev.vercel.app)
+I'm Dev Keshwani, a self-taught developer who loves turning ideas into reality—I make UIs for apps and rock-solid backends. Let's build something awesome together! ✨<br>
+<br>
+Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
   
 ### Languages and Tools
 <!-- // Markdown format -->
