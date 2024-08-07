@@ -8,10 +8,7 @@
 
 <br />
 I'm Dev Keshwani, a self-taught developer who loves turning ideas into reality—I make UIs for apps and rock-solid backends. Let's build something awesome together! ✨
-
-- 😏 I am bad at jokes, ye but descent at making apps :)
-- 🦾 Trying, breaking and fixing is my way of learning
-- 💬 Talk with me about **App Development**, **Backend Development**, **ALL GOSSIPS OF WORLD😉(Technical goosips)**.
+Know More About Me [dkakdev.vercel.app](https://dkadev.vercel.app)
   
 ### Languages and Tools
 <!-- // Markdown format -->
