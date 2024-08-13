@@ -38,11 +38,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Astro         14 hrs 8 mins   ████████████▒░░░░░░░░░░░░   49.91 %
-Dart          9 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.54 %
-C++           2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Other         1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Image (svg)   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Astro         14 hrs 8 mins   ███████████▓░░░░░░░░░░░░░   46.53 %
+Dart          13 hrs 3 mins   ██████████▓░░░░░░░░░░░░░░   42.96 %
+C++           1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Other         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Image (svg)   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
