@@ -32,6 +32,8 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=Astro)
 
+### Hacktoberfest Badges
+[![An image of @dkadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dkadev)](https://holopin.io/@dkadev)
 
 
 ### Github Stats
