@@ -5,6 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@dev_keshwani10-black?style=flat&logo=instagram&logoColor=orange&link=https://instagram.com/dev_keshwani10/)](https://instagram.com/dev_keshwani10)
 [![Gmail Badge](https://img.shields.io/badge/-dev.keshwani-black?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.keshwani345@gmail.com)](mailto:dev.keshwani345@gmail.com)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdk-a-dev%2Fdk-a-dev&label=Profile%20Views&labelColor=%36454F4&countColor=%237b78ff&style=flat-square)
+ <a href="https://www.buymeacoffee.com/devkeshwan1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a>
 
 <br />
 I'm Dev Keshwani, a self-taught developer who loves turning ideas into reality—I make UIs for apps and rock-solid backends. Let's build something awesome together! ✨<br>
