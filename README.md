@@ -41,11 +41,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte        25 hrs 36 mins  ████████████▒░░░░░░░░░░░░   49.04 %
-Other         10 hrs 51 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
-Dart          5 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Java          3 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Bash          2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Svelte        22 hrs 37 mins  ████████████▒░░░░░░░░░░░░   48.80 %
+Other         9 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Dart          5 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Java          3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Bash          1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
