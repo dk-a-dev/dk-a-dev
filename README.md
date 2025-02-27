@@ -41,11 +41,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              23 hrs 43 mins  █████████████▓░░░░░░░░░░░   54.72 %
-Python            9 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-TypeScript        3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Other             2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Bash              58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Python            17 hrs 2 mins   █████████▒░░░░░░░░░░░░░░░   37.55 %
+Dart              14 hrs 50 mins  ████████▒░░░░░░░░░░░░░░░░   32.71 %
+Other             6 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+TypeScript        2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Shell             48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
