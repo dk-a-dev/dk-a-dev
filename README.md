@@ -41,10 +41,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   8 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.10 %
-Other        6 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   38.46 %
-Rust         2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Java         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Other        6 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   33.03 %
+JavaScript   4 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Svelte       3 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Rust         3 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+YAML         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
