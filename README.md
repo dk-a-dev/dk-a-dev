@@ -41,9 +41,8 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Java    6 hrs 37 mins   ████████████████████████▓   99.06 %
-JSON    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java     1 hr 51 mins    ████████████████████████▓   98.04 %
+Python   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
