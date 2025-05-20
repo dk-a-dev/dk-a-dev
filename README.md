@@ -41,7 +41,9 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 5 mins     ██████████████▓░░░░░░░░░░   59.13 %
+Java     44 mins         ██████████░░░░░░░░░░░░░░░   40.25 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
