@@ -41,9 +41,9 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 hrs 59 mins   ████████████████████████░   96.28 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Go           4 hrs 41 mins   ████████████████████████▒   97.60 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
