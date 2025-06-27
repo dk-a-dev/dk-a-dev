@@ -41,11 +41,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         28 hrs 25 mins  ███████████████████░░░░░░   75.40 %
-Go           2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-JavaScript   2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Makefile     1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Bash         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Dart         23 hrs 35 mins  ███████████████████▓░░░░░   78.35 %
+JavaScript   2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Java         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Go           35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Bash         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
