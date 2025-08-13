@@ -41,11 +41,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   3 hrs 25 mins   ████████████░░░░░░░░░░░░░   47.46 %
-Swift    2 hrs 45 mins   █████████▓░░░░░░░░░░░░░░░   38.26 %
-Go       23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-JSON     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Python   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Kotlin   2 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.22 %
+Swift    1 hr 20 mins    ███████░░░░░░░░░░░░░░░░░░   28.08 %
+Python   47 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+JSON     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+YAML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
