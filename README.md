@@ -41,11 +41,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 17 mins   ██████████████████████░░░   87.63 %
-Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Text         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python       2 hrs 7 mins    ██████████████▓░░░░░░░░░░   58.16 %
+Go           1 hr 6 mins     ███████▓░░░░░░░░░░░░░░░░░   30.46 %
+Markdown     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Text         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
