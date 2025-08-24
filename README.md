@@ -41,11 +41,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        42 mins         ██████████░░░░░░░░░░░░░░░   40.50 %
-C            30 mins         ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-Elixir       20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Docker       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Python       1 hr 7 mins     ███████░░░░░░░░░░░░░░░░░░   27.45 %
+Astro        42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Markdown     31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+C            30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Elixir       20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
