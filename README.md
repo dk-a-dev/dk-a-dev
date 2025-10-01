@@ -8,7 +8,7 @@
  <a href="https://www.buymeacoffee.com/devkeshwan1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a>
 
 <br />
-I'm Dev Keshwani, a self-taught developer who loves turning ideas into reality—I make UIs for apps and rock-solid backends. Let's build something awesome together! ✨<br>
+I'm Dev Keshwani, Let's build something awesome together! ✨<br>
 <br>
 Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
   
@@ -31,7 +31,16 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+![typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=Astro)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+![Next.Js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
+![ApacheKafka](https://img.shields.io/badge/-ApacheKafka-black?style=flat-square&logo=apachekafka)
+![elasticsearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
+![portainer](https://img.shields.io/badge/-portainer-black?style=flat-square&logo=portainer)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss)
+![postgresql](https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql)
+![supabase](https://img.shields.io/badge/-supabase-black?style=flat-square&logo=supabase)
 
 ### Hacktoberfest Badges
 [![An image of @dkadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dkadev)](https://holopin.io/@dkadev)
