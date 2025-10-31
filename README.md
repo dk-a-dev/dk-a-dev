@@ -50,9 +50,8 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         7 mins          █████████▓░░░░░░░░░░░░░░░   39.18 %
-TypeScript   6 mins          ████████▒░░░░░░░░░░░░░░░░   32.92 %
-Prisma       5 mins          ███████░░░░░░░░░░░░░░░░░░   27.90 %
+Gradle Kotlin DSL   0 secs          ███████████████▒░░░░░░░░░   60.89 %
+Markdown            0 secs          █████████▓░░░░░░░░░░░░░░░   39.11 %
 ```
 
 <!--END_SECTION:waka-->
