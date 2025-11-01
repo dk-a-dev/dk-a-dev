@@ -50,8 +50,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Gradle Kotlin DSL   0 secs          ███████████████▒░░░░░░░░░   60.89 %
-Markdown            0 secs          █████████▓░░░░░░░░░░░░░░░   39.11 %
+Bash                26 mins         █████████▓░░░░░░░░░░░░░░░   38.49 %
+YAML                26 mins         █████████▓░░░░░░░░░░░░░░░   38.42 %
+JSON                10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Docker              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Markdown            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
