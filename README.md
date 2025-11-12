@@ -50,11 +50,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 55 mins   █████████████████░░░░░░░░   68.50 %
-Markdown     1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-Git          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Python       5 hrs           ████████████▓░░░░░░░░░░░░   50.37 %
+Markdown     1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+JavaScript   52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Bash         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+YAML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
