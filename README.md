@@ -50,7 +50,9 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart       4 mins          █████████████████████▒░░░   85.48 %
+YAML       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
