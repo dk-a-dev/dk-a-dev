@@ -50,9 +50,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       4 mins          █████████████████████▒░░░   85.48 %
-YAML       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Dart        4 hrs 37 mins   ████████████████████████▒   97.41 %
+Markdown    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+CocoaPods   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+XML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
