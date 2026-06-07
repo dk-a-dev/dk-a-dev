@@ -50,11 +50,11 @@ Check me out at <a href="https://dkadev.vercel.app">Dkadev:3</a>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript           20 hrs 28 mins        ███████████████▓░░░░░░░░░   62.77 %
-Markdown             3 hrs 45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Java                 2 hrs 53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-JSON                 2 hrs 5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Text                 1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+TypeScript           19 hrs 14 mins        ███████████████░░░░░░░░░░   60.40 %
+Markdown             3 hrs 45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Java                 3 hrs 40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+JSON                 1 hr 49 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Text                 1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
